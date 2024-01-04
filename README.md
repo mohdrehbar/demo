@@ -1,2 +1,3 @@
 # demo
-this is my first repository.
+This is my First Repository.
+Author - Mohd Rehbar
